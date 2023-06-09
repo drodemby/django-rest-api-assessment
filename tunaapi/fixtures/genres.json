@@ -1,0 +1,22 @@
+[
+  {
+      "model": "tunaapi.genre",
+      "pk": 1,
+      "fields": {
+          "description": "R&B"
+        }
+  },
+  {
+      "model": "tunaapi.genre",
+      "pk": 2,
+      "fields": {
+          "description": "Hip Hop"
+      }
+},{
+      "model": "tunaapi.genre",
+      "pk": 3,
+      "fields": {
+          "description": "Rap"
+      }
+}
+]

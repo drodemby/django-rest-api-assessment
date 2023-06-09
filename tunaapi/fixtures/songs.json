@@ -1,0 +1,31 @@
+[
+  {
+    "model": "tunaapi.song",
+    "pk": 1,
+    "fields": {
+        "title": "Party",
+        "artist": 1,
+        "album": "Four",
+        "length": 120
+      }
+  },
+  {
+    "model": "tunaapi.song",
+    "pk": 2,
+    "fields": {
+        "title": "Controlla",
+        "artist": 2,
+        "album": "Views",
+        "length": 120
+      }
+},{
+    "model": "tunaapi.song",
+    "pk": 3,
+    "fields": {
+        "title": "Rhude Boy",
+        "artist": 3,
+        "album": "Beezy",
+        "length": 120
+      }
+}
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "model": "tunaapi.artist",
+    "pk": 1,
+    "fields": {
+        "name": "Beyonce",         
+        "age": 40,
+        "bio": "International pop star"
+      }
+  },
+  {
+    "model": "tunaapi.artist",
+    "pk": 2,
+    "fields": {
+        "name": "Drake",
+        "age": 36,
+        "bio": "Canadian Lover Boy"
+      }
+},{
+    "model": "tunaapi.artist",
+    "pk": 3,
+    "fields": {
+        "name": "DoeBoy",
+        "age": 29,
+        "bio": "ATL Rapper"
+     }
+}
+]
