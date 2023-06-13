@@ -1,0 +1,10 @@
+[
+  {
+      "model": "tunaapi.songgenre",
+      "pk": 1,
+      "fields": {
+          "songId": 1,
+          "genreId": 1 
+      }
+  }
+]
